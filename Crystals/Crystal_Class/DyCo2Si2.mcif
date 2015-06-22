@@ -1,0 +1,139 @@
+# Created by the Bilbao Crystallographic Server
+# http://www.cryst.ehu.es
+# Date: 11/25/2014 18:03:37
+# Database entry: 1.21 DyCo2Si2
+# Cif-like file for the case 1.21
+
+
+data_5yOhtAoR
+_audit_creation_date            2014-11-25
+_audit_creation_method          "Bilbao Crystallographic Server"
+
+_chemical_name_systematic
+;
+;
+_chemical_name_common                    ?
+_chemical_formula_moiety                 ?
+_chemical_formula_structural             ?
+_chemical_formula_analytical             ?
+_chemical_formula_iupac                  ?
+_chemical_formula_sum                    'Dy Co2 Si2'
+_chemical_formula_weight                 ?
+_chemical_melting_point                  ?
+_chemical_compound_source                ?
+_chemical_absolute_configuration         .
+
+
+_citation_journal_abbrev        "Phys. Rev. B"
+_citation_journal_volume        27
+_citation_page_first            1861
+_citation_page_last             ?
+_citation_article_id            .
+_citation_year                  1983
+_citation_DOI                   ?
+
+loop_
+_citation_author_name
+"Pinto, H."
+
+_atomic_positions_source_database_code_ICSD   622705
+_atomic_positions_source_other               .
+
+_transition_temperature     21
+_experiment_temperature     4.2
+
+loop_
+_irrep_id
+_irrep_dimension
+_irrep_small_dimension
+_irrep_direction_type
+_irrep_action
+_irrep_modes_number
+_irrep_presence
+mM3+ 1 1 . primary . .
+
+_exptl_crystal_magnetic_properties_details
+;
+NPD
+;
+
+_active_magnetic_irreps_details
+;
+1k magnetic structure
+k-maximal magnetic symmetry (3 possible)
+;
+
+_magnetic_space_group_standard_setting  'yes'
+_parent_space_group.name_H-M              'I 4/m m m'
+_parent_space_group.IT_number             139
+
+loop_
+_magnetic_propagation_vector_seq_id
+_magnetic_propagation_vector_kxkykz
+k1 0,0,1
+
+_magnetic_space_group.transform_from_parent_Pp_abc  'a,b,c;0,0,0'
+_magnetic_space_group.transform_to_standard_Pp_abc  'a,b,c;0,0,0'
+
+loop_
+_magnetic_atom_site_moment_symmetry_constraints_label
+_atom_site_magnetic_moment_symmetry_constraints_mxmymz
+Dy 0,0,mz
+
+_space_group.magn_number_BNS   128.410
+_space_group.magn_name_BNS     "P_I 4/m n c"
+_space_group.magn_point_group "4/mmm1'"
+_space_group.magn_point_group_number "15.2.54"
+_cell_length_a                 3.87200
+_cell_length_b                 3.87200
+_cell_length_c                 9.66900
+_cell_angle_alpha              90.00
+_cell_angle_beta               90.00
+_cell_angle_gamma              90.00
+
+loop_
+_space_group_symop.magn_id
+_space_group_symop.magn_operation_xyz
+_space_group_symop.magn_operation_mxmymz
+1 x,y,z,+1 mx,my,mz
+2 -y,x,z,+1 -my,mx,mz
+3 y,-x,z,+1 my,-mx,mz
+4 x+1/2,-y+1/2,-z+1/2,+1 mx,-my,-mz
+5 -x+1/2,y+1/2,-z+1/2,+1 -mx,my,-mz
+6 -x,-y,z,+1 -mx,-my,mz
+7 y+1/2,x+1/2,-z+1/2,+1 my,mx,-mz
+8 -y+1/2,-x+1/2,-z+1/2,+1 -my,-mx,-mz
+9 -x,-y,-z,+1 mx,my,mz
+10 y,-x,-z,+1 -my,mx,mz
+11 -y,x,-z,+1 my,-mx,mz
+12 -x+1/2,y+1/2,z+1/2,+1 mx,-my,-mz
+13 x+1/2,-y+1/2,z+1/2,+1 -mx,my,-mz
+14 x,y,-z,+1 -mx,-my,mz
+15 -y+1/2,-x+1/2,z+1/2,+1 my,mx,-mz
+16 y+1/2,x+1/2,z+1/2,+1 -my,-mx,-mz
+
+loop_
+_space_group_symop.magn_centering_id
+_space_group_symop.magn_centering_xyz
+_space_group_symop.magn_centering_mxmymz
+1 x,y,z,+1 mx,my,mz
+2 x+1/2,y+1/2,z+1/2,-1 -mx,-my,-mz
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Co Co 0.00000 0.50000 0.25000 1
+Dy Dy 0.00000 0.00000 0.00000 1
+Si Si 0.00000 0.00000 0.37000 1
+
+loop_
+_atom_site_moment_label
+_atom_site_moment_crystalaxis_x
+_atom_site_moment_crystalaxis_y
+_atom_site_moment_crystalaxis_z
+Dy 0.0 0.0 9.5
+

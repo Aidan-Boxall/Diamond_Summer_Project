@@ -1,0 +1,52 @@
+
+data_165870-ICSD
+_cell_length_a     7.244
+_cell_length_b     8.463
+_cell_length_c     5.657
+_cell_angle_alpha    90.000
+_cell_angle_beta    90.000
+_cell_angle_gamma    90.000
+_symmetry_Int_tables_number  55
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+  1 X,Y,Z
+  2 1/2+X,1/2-Y,-Z
+  3 1/2+X,1/2-Y,Z
+  4 X,Y,-Z
+  5 -X,-Y,-Z
+  6 1/2-X,1/2+Y,Z
+  7 1/2-X,1/2+Y,-Z
+  8 -X,-Y,Z
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Y1    Y    4   0.13830   0.17160   0.00000   0.00630   1.00000
+Mn1   MN   4   0.00000   0.50000   0.25500   0.00463   1.00000
+Mn2   MN   4   0.41210   0.35040   0.50000   0.00667   1.00000
+O1    O    4   0.00000   0.00000   0.27170   0.00817   1.00000
+O2    O    4   0.16280   0.44410   0.00000   0.00823   1.00000
+O3    O    4   0.15050   0.43090   0.50000   0.00837   1.00000
+O4    O    8   0.39530   0.20620   0.24330   0.00787   1.00000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Y1    Y     0.00640   0.00610   0.00640  -0.00040   0.00000   0.00000
+Mn1   MN    0.00450   0.00450   0.00490   0.00040   0.00000   0.00000
+Mn2   MN    0.00770   0.00580   0.00650  -0.00060   0.00000   0.00000
+O1    O     0.00910   0.00850   0.00690   0.00690   0.00000   0.00000
+O2    O     0.01050   0.00620   0.00800   0.00140   0.00000   0.00000
+O3    O     0.00920   0.00790   0.00800   0.00030   0.00000   0.00000
+O4    O     0.00840   0.00690   0.00830   0.00690   0.00020   0.00010
